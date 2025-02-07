@@ -1,14 +1,13 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Tiago-adm - Desafio: Natural ou Fake Natty? Como Vencer na Era das IAs Generativas 
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
+> Projeto E-BOOK
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá, meu nome é Tiago e estou iniciando minha fascinante jornada no mundo das IAs generativas.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
-### Objetivos
+### 🎯 Objetivos
 
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 1. **Potfólio de Projetos**:
@@ -20,21 +19,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto: Explorando os recursos das IAs generativas na produção de um e-book
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A ideia do projeto é utilizar IAs para criação da imagem da capa e todo conteúdo de texto através de prompts bem estruturados para atingir o resultado esperado, aplicando assim, as técnicas necessárias aprendidas até o momento.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+As IAs Generativas utilizadas foram: IA da Adobe, modo: gerar Imagem - programa Photoshop e Microsoft Copilot, para elaboração do conteúdo em texto.
+Ferramenta para formatação: Canva, para formatação do E-book.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Prompts utilizados:
+Capa: Imagem centralizada, com espaço para as margens do arquivo, de um cérebro mecânico ultrarrealista, estilo Steampunk com peças a vapor soltando fumaça e faíscas. Imagem será usada para a capa de um E-book, use como referência capas de e-books de sucesso.
+
+Texto: Você é um especialista em Inteligência Artificial generativa.
+Crie um texto, para e-book, descrevendo os principais conceitos, benefícios e desafios.
+O público alvo é uma turma de um curso para iniciantes nesse tema.
+Por se tratar de uma formação, peço, por gentileza, listar as fontes e referências utilizadas na produção do texto e organize por páginas, com índice, com base nos principais modelos de e-book de sucesso.
+
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
