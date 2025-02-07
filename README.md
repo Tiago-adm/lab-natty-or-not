@@ -39,10 +39,10 @@ Por se tratar de uma formação, peço, por gentileza, listar as fontes e refer�
 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[E-book: Introdução à Inteligência Artificial Generativa](https://drive.google.com/file/d/1jQTIUGvs5G_B8ITaA3ltudfKtHvdWHSh/view?usp=sharing)
 
 ## 💭 Reflexão 
-Comente sobre o desafio de criar algo 'natty' com IA.
+É fascinante pensar tudo que é possível desenvolver com os recursos da IA generativa, foi incrível aplicar alguns dos conceitos aprendidos durante as aulas do curso e como isso melhorou, e muito, o resultado do projeto.
 ```
 
 ### Exemplos e Insigths
